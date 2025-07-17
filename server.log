@@ -1,0 +1,10 @@
+
+> prime_showcase_ebc03e22@0.1.0 dev
+> next dev --turbopack -p 50779 --hostname 0.0.0.0
+
+   ▲ Next.js 15.4.1 (Turbopack)
+   - Local:        http://localhost:50779
+   - Network:      http://0.0.0.0:50779
+
+ ✓ Starting...
+ ✓ Ready in 876ms
